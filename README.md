@@ -1,7 +1,7 @@
 # AKLH
 
 ## Introduction
-- This is a project create with the purpose of learning how to create own Token. This is a simple token that can be used to transfer value between accounts. This project is based on the web3. The frontend is created with React and the backend is created with Mokoto. 
+- This is a project create with the purpose of learning how to create own Token. This is a simple token that can be used to transfer value between accounts. This project is based on the **web3**. The frontend is created with **React** and the backend is created with **Mokoto**. **Authentication** is done with Internet Identity. 
 
 ![image](https://user-images.githubusercontent.com/109253977/192114996-01e7db17-cfd5-4d8a-89ab-435709933fe8.png)
 
